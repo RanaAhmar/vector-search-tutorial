@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/vector-search-tutorial?style=for-the-badge)](https://github.com/RanaAhmar/vector-search-tutorial/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/vector-search-tutorial?style=for-the-badge)](https://github.com/RanaAhmar/vector-search-tutorial/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/vector-search-tutorial/blob/main/LICENSE)
+
 # 🔍 Vector Search Tutorial
 
 Build the next generation of search. Semantic similarity, embeddings, and vector databases. By **Ahmar Hussain** (**Stackaura**).
@@ -34,5 +36,13 @@ If you found this tool useful, check out our other high-performance web utilitie
 ---
 
 
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
 
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
 
+*If you find this project useful, please consider giving it a star! ⭐*
